@@ -1,4 +1,4 @@
-# Dr. SillyStringz Factory
+# University Registrar
 
 #### By _**Filmer Tolentino & Seung Lee**_   
 
